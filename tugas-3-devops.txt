@@ -1,0 +1,4 @@
+Pada semester 4 ini saya sedang belajar DevOps
+
+Resolusi saya untuk kedepannya yaitu:
+-Konsisten mempelajari fundamental dan tools yang kedepannya akan menunjang materi DevOps
